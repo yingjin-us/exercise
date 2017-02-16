@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi1", "TestApi1.csproj", "{3D10741C-AD95-41B7-9CD1-CDF6D7891DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonEndpoint", "..\PersonEndpoint\PersonEndpoint.csproj", "{476FBEF3-4799-4FDB-8FA0-FFB489CAFE79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3D10741C-AD95-41B7-9CD1-CDF6D7891DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D10741C-AD95-41B7-9CD1-CDF6D7891DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D10741C-AD95-41B7-9CD1-CDF6D7891DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476FBEF3-4799-4FDB-8FA0-FFB489CAFE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476FBEF3-4799-4FDB-8FA0-FFB489CAFE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476FBEF3-4799-4FDB-8FA0-FFB489CAFE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476FBEF3-4799-4FDB-8FA0-FFB489CAFE79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
